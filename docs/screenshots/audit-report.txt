@@ -1,0 +1,13 @@
+axe es 375px lang=es: 0 violations, 40 rules passed, 0 incomplete, console errors: 0
+axe es 1280px lang=es: 0 violations, 40 rules passed, 0 incomplete, console errors: 0
+overflow es 320px: scrollWidth 320 vs 320, elements past the edge: 0, small tap targets: 0 OK
+overflow es 375px: scrollWidth 375 vs 375, elements past the edge: 0, small tap targets: 0 OK
+overflow es 768px: scrollWidth 768 vs 768, elements past the edge: 0, small tap targets: 0 OK
+axe en 375px lang=en: 0 violations, 40 rules passed, 0 incomplete, console errors: 0
+axe en 1280px lang=en: 0 violations, 40 rules passed, 0 incomplete, console errors: 0
+overflow en 320px: scrollWidth 320 vs 320, elements past the edge: 0, small tap targets: 0 OK
+overflow en 375px: scrollWidth 375 vs 375, elements past the edge: 0, small tap targets: 0 OK
+overflow en 768px: scrollWidth 768 vs 768, elements past the edge: 0, small tap targets: 0 OK
+language toggle: OK ["en","?lang=en","Check your helper: can this person really help you?","true","none"] ["es",""]
+no JavaScript: English block visible = true
+RESULT: PASS

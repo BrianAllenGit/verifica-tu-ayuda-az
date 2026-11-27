@@ -1,0 +1,3 @@
+/* Without JavaScript the language buttons cannot work, so show both languages. */
+html:not(.en) .en{display:revert!important}
+.langs{display:none}

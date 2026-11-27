@@ -1,0 +1,56 @@
+PASS title 58 chars: Verifica tu ayuda: ¿puede esta persona ayudarte de verdad?
+PASS meta description 154 chars
+PASS canonical
+PASS hreflang es
+PASS hreflang en
+PASS hreflang x-default
+PASS html lang
+PASS robots meta
+PASS og:title = Verifica tu ayuda: ¿puede esta persona ayudarte de verdad?
+PASS og:description = ¿Esta persona puede ayudarte con tu caso de inmigración? Revisa las li
+PASS og:type = website
+PASS og:url = https://brianallengit.github.io/verifica-tu-ayuda-az/
+PASS og:image = https://brianallengit.github.io/verifica-tu-ayuda-az/og-image.png
+PASS og:image:alt = Verifica tu ayuda, Arizona: ¿puede esta persona ayudarte con tu caso d
+PASS og:locale = es_US
+PASS og:locale:alternate = en_US
+PASS og:site_name = Verifica tu ayuda · Arizona
+PASS og:image:width = 1200
+PASS og:image:height = 630
+PASS og:image absolute https
+PASS twitter:card
+PASS twitter:title
+PASS twitter:description
+PASS twitter:image
+PASS twitter:image:alt
+PASS twitter:card summary_large_image
+PASS theme-color
+PASS link icon" href="favicon.svg
+PASS link icon" href="favicon-32.png
+PASS link apple-touch-icon" href="apple-touch-icon.png
+PASS link manifest" href="manifest.webmanifest
+PASS og-image.png 1200x630, 69829 bytes
+PASS favicon-32.png 32x32
+PASS apple-touch-icon.png 180x180
+PASS icon-192.png 192x192
+PASS icon-512.png 512x512
+PASS JSON-LD parses
+PASS JSON-LD Organization.name
+PASS JSON-LD Organization.url
+PASS JSON-LD WebSite.name
+PASS JSON-LD WebSite.url
+PASS JSON-LD WebPage.name
+PASS JSON-LD WebPage.url
+PASS JSON-LD @context
+PASS JSON-LD @id references resolve
+PASS no FAQPage/HowTo (page has no real FAQ markup)
+PASS JSON-LD name/description match visible title/description
+PASS no real name in HTML (apart from the planned github.io host, same as Fresh Start)
+PASS robots.txt allows all and names sitemap
+PASS sitemap.xml loc and alternates
+PASS llms.txt starts with H1
+PASS manifest valid and icons exist
+PASS strict CSP incl. manifest-src
+PASS no em dashes
+PASS h1 count 2 (one per language, one hidden at a time)
+VALIDATION PASS

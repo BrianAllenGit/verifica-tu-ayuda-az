@@ -1,0 +1,30 @@
+# Verifica tu ayuda · Arizona
+
+> A free, ad-free, zero-tracking one-page tool in Spanish and English for people in Arizona who ask "Is this person really allowed to help me with my immigration case?" It links to the official lists for checking a lawyer or an accredited representative and to the places to report a scam. It gives general information, not legal advice. Every piece of legal wording is quoted word for word from the U.S. Department of Justice (EOIR) or the ACLU of Arizona, each credited and linked, read on 2026-11-27.
+
+## What it is
+- Three steps, each a link to an official page: look up a lawyer at the State Bar of Arizona; look up an accredited representative or recognized organization on the EOIR lists (and the EOIR list of disciplined practitioners); report a scam to the Arizona Attorney General or the FTC.
+- The Department of Justice Notario National Notice (July 22, 2009), in English and Spanish, copied in full.
+- The ACLU of Arizona "Find an attorney" passage (English and Spanish), copied in full, and the 2011 EOIR flyer "Read This Before You Take Legal Advice" (English), copied in full.
+- Links to the EOIR free legal services list and AZLawHelp.
+
+## Who it is for
+- Immigrants and families in Arizona who were offered help with immigration papers (for example by a "notario") and want to check the person before paying or signing.
+
+## How to use it
+- Open the page, pick Spanish or English, follow the three steps. It works without JavaScript, stores nothing and has no analytics. The English view is the same page at ?lang=en.
+
+## Key links
+- Page: https://brianallengit.github.io/verifica-tu-ayuda-az/
+- English view: https://brianallengit.github.io/verifica-tu-ayuda-az/?lang=en
+
+## Sources
+- EOIR Notario National Notice: https://www.justice.gov/eoir/notario-national-notice
+- EOIR rosters: https://www.justice.gov/eoir/recognition-accreditation-roster-reports
+- ACLU of Arizona: https://www.acluaz.org/know-your-rights/know-your-rights-during-and-after-workplace-raid/
+- State Bar of Arizona search: https://www.azbar.org/search-for-a-legal-professional
+- Arizona Attorney General complaints: https://www.azag.gov/complaints/consumer
+- FTC: https://reportfraud.ftc.gov/
+
+## Limits
+- Not legal advice. It cannot say whether a person is trustworthy; it only points to official lists. Talk to a licensed attorney or a DOJ-accredited representative about your own case.

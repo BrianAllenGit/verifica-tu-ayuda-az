@@ -1,0 +1,16 @@
+PASS keyboard es: 28 tab stops, 0 without visible focus indicator, tab order cycles (no trap)
+PASS keyboard es: Shift+Tab moves back
+PASS skip link first tab stop es (skip es)
+PASS text spacing overrides es 320px: scrollWidth 320 <= 320
+PASS text spacing overrides es 375px: scrollWidth 375 <= 375
+PASS 200% zoom equivalent (640 css px) es: no horizontal scroll
+PASS forced-colors and reduced-motion emulated es: {"fc":true,"rm":true,"sb":"auto"}
+PASS keyboard en: 28 tab stops, 0 without visible focus indicator, tab order cycles (no trap)
+PASS keyboard en: Shift+Tab moves back
+PASS skip link first tab stop en (skip en)
+PASS text spacing overrides en 320px: scrollWidth 320 <= 320
+PASS text spacing overrides en 375px: scrollWidth 375 <= 375
+PASS 200% zoom equivalent (640 css px) en: no horizontal scroll
+PASS forced-colors and reduced-motion emulated en: {"fc":true,"rm":true,"sb":"auto"}
+PASS JavaScript off: 10 panels present in static HTML
+EXTRA PASS

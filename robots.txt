@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://brianallengit.github.io/verifica-tu-ayuda-az/sitemap.xml

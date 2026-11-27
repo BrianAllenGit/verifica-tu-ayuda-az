@@ -1,0 +1,12 @@
+{
+ "categories": {
+  "performance": 1,
+  "accessibility": 1,
+  "best-practices": 1,
+  "seo": 1
+ },
+ "fcp": "1.1 s",
+ "lcp": "1.1 s",
+ "tbt": "0 ms",
+ "cls": "0"
+}
